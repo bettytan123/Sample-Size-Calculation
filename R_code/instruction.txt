@@ -1,0 +1,1 @@
+This is the R code for simulation study and sample size calcualation using the textbook formula 
